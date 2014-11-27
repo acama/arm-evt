@@ -1,7 +1,7 @@
 Local scenario
 ===============
 
-Vulnerable module and PoC exploit for remote scenario
+Vulnerable module and PoC exploit for local scenario
 
 Build and load the module in the vulnmod folder with (as root):
 ```
